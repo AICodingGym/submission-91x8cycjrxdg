@@ -21,6 +21,10 @@ http://#
 http://##
 http://##/
 http://foo.bar?q=Spaces should be encoded
+http://foo/bar@example.com
+http://user:pass:word@example.com
+http://user:pass/word@example.com
+http://invalid-.com?m=foo@example.com
 //
 //a
 ///a
